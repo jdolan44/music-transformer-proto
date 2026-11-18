@@ -1,0 +1,9882 @@
+[
+  {
+    "exercise_id": "c_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C",
+    "variant": "clean",
+    "reference_midi": "reference/c_major_scale.mid",
+    "performance_midi": "performance/c_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C",
+    "variant": "pitch",
+    "reference_midi": "reference/c_major_scale.mid",
+    "performance_midi": "performance/c_major_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C",
+    "variant": "late_short",
+    "reference_midi": "reference/c_major_scale.mid",
+    "performance_midi": "performance/c_major_scale_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C",
+    "variant": "late_long",
+    "reference_midi": "reference/c_major_scale.mid",
+    "performance_midi": "performance/c_major_scale_late_long.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "c_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C",
+    "variant": "mixed",
+    "reference_midi": "reference/c_major_scale.mid",
+    "performance_midi": "performance/c_major_scale_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "c_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C",
+    "variant": "clean",
+    "reference_midi": "reference/c_natural_minor_scale.mid",
+    "performance_midi": "performance/c_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C",
+    "variant": "pitch",
+    "reference_midi": "reference/c_natural_minor_scale.mid",
+    "performance_midi": "performance/c_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C",
+    "variant": "late_short",
+    "reference_midi": "reference/c_natural_minor_scale.mid",
+    "performance_midi": "performance/c_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C",
+    "variant": "late_long",
+    "reference_midi": "reference/c_natural_minor_scale.mid",
+    "performance_midi": "performance/c_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "c_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C",
+    "variant": "mixed",
+    "reference_midi": "reference/c_natural_minor_scale.mid",
+    "performance_midi": "performance/c_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "c_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C",
+    "variant": "clean",
+    "reference_midi": "reference/c_arpeggio.mid",
+    "performance_midi": "performance/c_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C",
+    "variant": "pitch",
+    "reference_midi": "reference/c_arpeggio.mid",
+    "performance_midi": "performance/c_arpeggio_pitch.mid",
+    "errors": [
+      [
+        7,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C",
+    "variant": "late_short",
+    "reference_midi": "reference/c_arpeggio.mid",
+    "performance_midi": "performance/c_arpeggio_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C",
+    "variant": "late_long",
+    "reference_midi": "reference/c_arpeggio.mid",
+    "performance_midi": "performance/c_arpeggio_late_long.mid",
+    "errors": [
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "c_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C",
+    "variant": "mixed",
+    "reference_midi": "reference/c_arpeggio.mid",
+    "performance_midi": "performance/c_arpeggio_mixed.mid",
+    "errors": [
+      [
+        4,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/c-sharp_major_scale.mid",
+    "performance_midi": "performance/c-sharp_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/c-sharp_major_scale.mid",
+    "performance_midi": "performance/c-sharp_major_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/c-sharp_major_scale.mid",
+    "performance_midi": "performance/c-sharp_major_scale_late_short.mid",
+    "errors": [
+      [
+        3,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/c-sharp_major_scale.mid",
+    "performance_midi": "performance/c-sharp_major_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "C-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/c-sharp_major_scale.mid",
+    "performance_midi": "performance/c-sharp_major_scale_mixed.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/c-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/c-sharp_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/c-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/c-sharp_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/c-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/c-sharp_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/c-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/c-sharp_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "C-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/c-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/c-sharp_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        5,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/c-sharp_arpeggio.mid",
+    "performance_midi": "performance/c-sharp_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/c-sharp_arpeggio.mid",
+    "performance_midi": "performance/c-sharp_arpeggio_pitch.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/c-sharp_arpeggio.mid",
+    "performance_midi": "performance/c-sharp_arpeggio_late_short.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/c-sharp_arpeggio.mid",
+    "performance_midi": "performance/c-sharp_arpeggio_late_long.mid",
+    "errors": [
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "c-sharp_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "C-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/c-sharp_arpeggio.mid",
+    "performance_midi": "performance/c-sharp_arpeggio_mixed.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "d_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "D",
+    "variant": "clean",
+    "reference_midi": "reference/d_major_scale.mid",
+    "performance_midi": "performance/d_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "D",
+    "variant": "pitch",
+    "reference_midi": "reference/d_major_scale.mid",
+    "performance_midi": "performance/d_major_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "D",
+    "variant": "late_short",
+    "reference_midi": "reference/d_major_scale.mid",
+    "performance_midi": "performance/d_major_scale_late_short.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "D",
+    "variant": "late_long",
+    "reference_midi": "reference/d_major_scale.mid",
+    "performance_midi": "performance/d_major_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "d_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "D",
+    "variant": "mixed",
+    "reference_midi": "reference/d_major_scale.mid",
+    "performance_midi": "performance/d_major_scale_mixed.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "d_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "D",
+    "variant": "clean",
+    "reference_midi": "reference/d_natural_minor_scale.mid",
+    "performance_midi": "performance/d_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "D",
+    "variant": "pitch",
+    "reference_midi": "reference/d_natural_minor_scale.mid",
+    "performance_midi": "performance/d_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "D",
+    "variant": "late_short",
+    "reference_midi": "reference/d_natural_minor_scale.mid",
+    "performance_midi": "performance/d_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "D",
+    "variant": "late_long",
+    "reference_midi": "reference/d_natural_minor_scale.mid",
+    "performance_midi": "performance/d_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "d_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "D",
+    "variant": "mixed",
+    "reference_midi": "reference/d_natural_minor_scale.mid",
+    "performance_midi": "performance/d_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        5,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "d_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "D",
+    "variant": "clean",
+    "reference_midi": "reference/d_arpeggio.mid",
+    "performance_midi": "performance/d_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "D",
+    "variant": "pitch",
+    "reference_midi": "reference/d_arpeggio.mid",
+    "performance_midi": "performance/d_arpeggio_pitch.mid",
+    "errors": [
+      [
+        4,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "D",
+    "variant": "late_short",
+    "reference_midi": "reference/d_arpeggio.mid",
+    "performance_midi": "performance/d_arpeggio_late_short.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0
+    ]
+  },
+  {
+    "exercise_id": "d_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "D",
+    "variant": "late_long",
+    "reference_midi": "reference/d_arpeggio.mid",
+    "performance_midi": "performance/d_arpeggio_late_long.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "d_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "D",
+    "variant": "mixed",
+    "reference_midi": "reference/d_arpeggio.mid",
+    "performance_midi": "performance/d_arpeggio_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "E",
+    "variant": "clean",
+    "reference_midi": "reference/e_major_scale.mid",
+    "performance_midi": "performance/e_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "E",
+    "variant": "pitch",
+    "reference_midi": "reference/e_major_scale.mid",
+    "performance_midi": "performance/e_major_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "E",
+    "variant": "late_short",
+    "reference_midi": "reference/e_major_scale.mid",
+    "performance_midi": "performance/e_major_scale_late_short.mid",
+    "errors": [
+      [
+        8,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "E",
+    "variant": "late_long",
+    "reference_midi": "reference/e_major_scale.mid",
+    "performance_midi": "performance/e_major_scale_late_long.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "e_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "E",
+    "variant": "mixed",
+    "reference_midi": "reference/e_major_scale.mid",
+    "performance_midi": "performance/e_major_scale_mixed.mid",
+    "errors": [
+      [
+        7,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "E",
+    "variant": "clean",
+    "reference_midi": "reference/e_natural_minor_scale.mid",
+    "performance_midi": "performance/e_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "E",
+    "variant": "pitch",
+    "reference_midi": "reference/e_natural_minor_scale.mid",
+    "performance_midi": "performance/e_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "E",
+    "variant": "late_short",
+    "reference_midi": "reference/e_natural_minor_scale.mid",
+    "performance_midi": "performance/e_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        3,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "E",
+    "variant": "late_long",
+    "reference_midi": "reference/e_natural_minor_scale.mid",
+    "performance_midi": "performance/e_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "E",
+    "variant": "mixed",
+    "reference_midi": "reference/e_natural_minor_scale.mid",
+    "performance_midi": "performance/e_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "E",
+    "variant": "clean",
+    "reference_midi": "reference/e_arpeggio.mid",
+    "performance_midi": "performance/e_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "E",
+    "variant": "pitch",
+    "reference_midi": "reference/e_arpeggio.mid",
+    "performance_midi": "performance/e_arpeggio_pitch.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        5,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "E",
+    "variant": "late_short",
+    "reference_midi": "reference/e_arpeggio.mid",
+    "performance_midi": "performance/e_arpeggio_late_short.mid",
+    "errors": [
+      [
+        1,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "E",
+    "variant": "late_long",
+    "reference_midi": "reference/e_arpeggio.mid",
+    "performance_midi": "performance/e_arpeggio_late_long.mid",
+    "errors": [
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "e_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "E",
+    "variant": "mixed",
+    "reference_midi": "reference/e_arpeggio.mid",
+    "performance_midi": "performance/e_arpeggio_mixed.mid",
+    "errors": [
+      [
+        4,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "f_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "F",
+    "variant": "clean",
+    "reference_midi": "reference/f_major_scale.mid",
+    "performance_midi": "performance/f_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "F",
+    "variant": "pitch",
+    "reference_midi": "reference/f_major_scale.mid",
+    "performance_midi": "performance/f_major_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        5,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "F",
+    "variant": "late_short",
+    "reference_midi": "reference/f_major_scale.mid",
+    "performance_midi": "performance/f_major_scale_late_short.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "F",
+    "variant": "late_long",
+    "reference_midi": "reference/f_major_scale.mid",
+    "performance_midi": "performance/f_major_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "f_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "F",
+    "variant": "mixed",
+    "reference_midi": "reference/f_major_scale.mid",
+    "performance_midi": "performance/f_major_scale_mixed.mid",
+    "errors": [
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "f_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "F",
+    "variant": "clean",
+    "reference_midi": "reference/f_natural_minor_scale.mid",
+    "performance_midi": "performance/f_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "F",
+    "variant": "pitch",
+    "reference_midi": "reference/f_natural_minor_scale.mid",
+    "performance_midi": "performance/f_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "F",
+    "variant": "late_short",
+    "reference_midi": "reference/f_natural_minor_scale.mid",
+    "performance_midi": "performance/f_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "F",
+    "variant": "late_long",
+    "reference_midi": "reference/f_natural_minor_scale.mid",
+    "performance_midi": "performance/f_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "f_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "F",
+    "variant": "mixed",
+    "reference_midi": "reference/f_natural_minor_scale.mid",
+    "performance_midi": "performance/f_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "f_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "F",
+    "variant": "clean",
+    "reference_midi": "reference/f_arpeggio.mid",
+    "performance_midi": "performance/f_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "F",
+    "variant": "pitch",
+    "reference_midi": "reference/f_arpeggio.mid",
+    "performance_midi": "performance/f_arpeggio_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "F",
+    "variant": "late_short",
+    "reference_midi": "reference/f_arpeggio.mid",
+    "performance_midi": "performance/f_arpeggio_late_short.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "F",
+    "variant": "late_long",
+    "reference_midi": "reference/f_arpeggio.mid",
+    "performance_midi": "performance/f_arpeggio_late_long.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "f_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "F",
+    "variant": "mixed",
+    "reference_midi": "reference/f_arpeggio.mid",
+    "performance_midi": "performance/f_arpeggio_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "g_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "G",
+    "variant": "clean",
+    "reference_midi": "reference/g_major_scale.mid",
+    "performance_midi": "performance/g_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "G",
+    "variant": "pitch",
+    "reference_midi": "reference/g_major_scale.mid",
+    "performance_midi": "performance/g_major_scale_pitch.mid",
+    "errors": [
+      [
+        5,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "G",
+    "variant": "late_short",
+    "reference_midi": "reference/g_major_scale.mid",
+    "performance_midi": "performance/g_major_scale_late_short.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "G",
+    "variant": "late_long",
+    "reference_midi": "reference/g_major_scale.mid",
+    "performance_midi": "performance/g_major_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "g_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "G",
+    "variant": "mixed",
+    "reference_midi": "reference/g_major_scale.mid",
+    "performance_midi": "performance/g_major_scale_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "g_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "G",
+    "variant": "clean",
+    "reference_midi": "reference/g_natural_minor_scale.mid",
+    "performance_midi": "performance/g_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "G",
+    "variant": "pitch",
+    "reference_midi": "reference/g_natural_minor_scale.mid",
+    "performance_midi": "performance/g_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        5,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "G",
+    "variant": "late_short",
+    "reference_midi": "reference/g_natural_minor_scale.mid",
+    "performance_midi": "performance/g_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "G",
+    "variant": "late_long",
+    "reference_midi": "reference/g_natural_minor_scale.mid",
+    "performance_midi": "performance/g_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "g_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "G",
+    "variant": "mixed",
+    "reference_midi": "reference/g_natural_minor_scale.mid",
+    "performance_midi": "performance/g_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "g_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "G",
+    "variant": "clean",
+    "reference_midi": "reference/g_arpeggio.mid",
+    "performance_midi": "performance/g_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "G",
+    "variant": "pitch",
+    "reference_midi": "reference/g_arpeggio.mid",
+    "performance_midi": "performance/g_arpeggio_pitch.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "G",
+    "variant": "late_short",
+    "reference_midi": "reference/g_arpeggio.mid",
+    "performance_midi": "performance/g_arpeggio_late_short.mid",
+    "errors": [
+      [
+        0,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "g_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "G",
+    "variant": "late_long",
+    "reference_midi": "reference/g_arpeggio.mid",
+    "performance_midi": "performance/g_arpeggio_late_long.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "g_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "G",
+    "variant": "mixed",
+    "reference_midi": "reference/g_arpeggio.mid",
+    "performance_midi": "performance/g_arpeggio_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "a_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "A",
+    "variant": "clean",
+    "reference_midi": "reference/a_major_scale.mid",
+    "performance_midi": "performance/a_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "A",
+    "variant": "pitch",
+    "reference_midi": "reference/a_major_scale.mid",
+    "performance_midi": "performance/a_major_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "A",
+    "variant": "late_short",
+    "reference_midi": "reference/a_major_scale.mid",
+    "performance_midi": "performance/a_major_scale_late_short.mid",
+    "errors": [
+      [
+        0,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "A",
+    "variant": "late_long",
+    "reference_midi": "reference/a_major_scale.mid",
+    "performance_midi": "performance/a_major_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "a_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "A",
+    "variant": "mixed",
+    "reference_midi": "reference/a_major_scale.mid",
+    "performance_midi": "performance/a_major_scale_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "a_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "A",
+    "variant": "clean",
+    "reference_midi": "reference/a_natural_minor_scale.mid",
+    "performance_midi": "performance/a_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "A",
+    "variant": "pitch",
+    "reference_midi": "reference/a_natural_minor_scale.mid",
+    "performance_midi": "performance/a_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "A",
+    "variant": "late_short",
+    "reference_midi": "reference/a_natural_minor_scale.mid",
+    "performance_midi": "performance/a_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "A",
+    "variant": "late_long",
+    "reference_midi": "reference/a_natural_minor_scale.mid",
+    "performance_midi": "performance/a_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "a_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "A",
+    "variant": "mixed",
+    "reference_midi": "reference/a_natural_minor_scale.mid",
+    "performance_midi": "performance/a_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "a_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "A",
+    "variant": "clean",
+    "reference_midi": "reference/a_arpeggio.mid",
+    "performance_midi": "performance/a_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "A",
+    "variant": "pitch",
+    "reference_midi": "reference/a_arpeggio.mid",
+    "performance_midi": "performance/a_arpeggio_pitch.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "A",
+    "variant": "late_short",
+    "reference_midi": "reference/a_arpeggio.mid",
+    "performance_midi": "performance/a_arpeggio_late_short.mid",
+    "errors": [
+      [
+        0,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "A",
+    "variant": "late_long",
+    "reference_midi": "reference/a_arpeggio.mid",
+    "performance_midi": "performance/a_arpeggio_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "a_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "A",
+    "variant": "mixed",
+    "reference_midi": "reference/a_arpeggio.mid",
+    "performance_midi": "performance/a_arpeggio_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b-flat_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "B-flat",
+    "variant": "clean",
+    "reference_midi": "reference/b-flat_major_scale.mid",
+    "performance_midi": "performance/b-flat_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "B-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/b-flat_major_scale.mid",
+    "performance_midi": "performance/b-flat_major_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "B-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/b-flat_major_scale.mid",
+    "performance_midi": "performance/b-flat_major_scale_late_short.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "B-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/b-flat_major_scale.mid",
+    "performance_midi": "performance/b-flat_major_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "b-flat_major_scale",
+    "split": "train",
+    "family": "major_scale",
+    "tonic": "B-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/b-flat_major_scale.mid",
+    "performance_midi": "performance/b-flat_major_scale_mixed.mid",
+    "errors": [
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "b-flat_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "B-flat",
+    "variant": "clean",
+    "reference_midi": "reference/b-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/b-flat_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "B-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/b-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/b-flat_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        3,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "B-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/b-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/b-flat_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "B-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/b-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/b-flat_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "b-flat_natural_minor_scale",
+    "split": "train",
+    "family": "natural_minor_scale",
+    "tonic": "B-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/b-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/b-flat_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      -2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b-flat_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "B-flat",
+    "variant": "clean",
+    "reference_midi": "reference/b-flat_arpeggio.mid",
+    "performance_midi": "performance/b-flat_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "B-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/b-flat_arpeggio.mid",
+    "performance_midi": "performance/b-flat_arpeggio_pitch.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "B-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/b-flat_arpeggio.mid",
+    "performance_midi": "performance/b-flat_arpeggio_late_short.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b-flat_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "B-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/b-flat_arpeggio.mid",
+    "performance_midi": "performance/b-flat_arpeggio_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b-flat_arpeggio",
+    "split": "train",
+    "family": "arpeggio",
+    "tonic": "B-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/b-flat_arpeggio.mid",
+    "performance_midi": "performance/b-flat_arpeggio_mixed.mid",
+    "errors": [
+      [
+        5,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "e-flat_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "E-flat",
+    "variant": "clean",
+    "reference_midi": "reference/e-flat_major_scale.mid",
+    "performance_midi": "performance/e-flat_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "E-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/e-flat_major_scale.mid",
+    "performance_midi": "performance/e-flat_major_scale_pitch.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        7,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "E-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/e-flat_major_scale.mid",
+    "performance_midi": "performance/e-flat_major_scale_late_short.mid",
+    "errors": [
+      [
+        13,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "E-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/e-flat_major_scale.mid",
+    "performance_midi": "performance/e-flat_major_scale_late_long.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "e-flat_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "E-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/e-flat_major_scale.mid",
+    "performance_midi": "performance/e-flat_major_scale_mixed.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e-flat_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "E-flat",
+    "variant": "clean",
+    "reference_midi": "reference/e-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/e-flat_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "E-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/e-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/e-flat_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        4,
+        "wrong_pitch"
+      ],
+      [
+        5,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      -2,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "E-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/e-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/e-flat_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "E-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/e-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/e-flat_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "e-flat_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "E-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/e-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/e-flat_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e-flat_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "E-flat",
+    "variant": "clean",
+    "reference_midi": "reference/e-flat_arpeggio.mid",
+    "performance_midi": "performance/e-flat_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "E-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/e-flat_arpeggio.mid",
+    "performance_midi": "performance/e-flat_arpeggio_pitch.mid",
+    "errors": [
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "E-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/e-flat_arpeggio.mid",
+    "performance_midi": "performance/e-flat_arpeggio_late_short.mid",
+    "errors": [
+      [
+        1,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "e-flat_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "E-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/e-flat_arpeggio.mid",
+    "performance_midi": "performance/e-flat_arpeggio_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "e-flat_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "E-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/e-flat_arpeggio.mid",
+    "performance_midi": "performance/e-flat_arpeggio_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "F-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/f-sharp_major_scale.mid",
+    "performance_midi": "performance/f-sharp_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "F-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/f-sharp_major_scale.mid",
+    "performance_midi": "performance/f-sharp_major_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        8,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "F-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/f-sharp_major_scale.mid",
+    "performance_midi": "performance/f-sharp_major_scale_late_short.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "F-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/f-sharp_major_scale.mid",
+    "performance_midi": "performance/f-sharp_major_scale_late_long.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_major_scale",
+    "split": "validation",
+    "family": "major_scale",
+    "tonic": "F-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/f-sharp_major_scale.mid",
+    "performance_midi": "performance/f-sharp_major_scale_mixed.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "F-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/f-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/f-sharp_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "F-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/f-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/f-sharp_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "F-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/f-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/f-sharp_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        13,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "F-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/f-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/f-sharp_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_natural_minor_scale",
+    "split": "validation",
+    "family": "natural_minor_scale",
+    "tonic": "F-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/f-sharp_natural_minor_scale.mid",
+    "performance_midi": "performance/f-sharp_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "F-sharp",
+    "variant": "clean",
+    "reference_midi": "reference/f-sharp_arpeggio.mid",
+    "performance_midi": "performance/f-sharp_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "F-sharp",
+    "variant": "pitch",
+    "reference_midi": "reference/f-sharp_arpeggio.mid",
+    "performance_midi": "performance/f-sharp_arpeggio_pitch.mid",
+    "errors": [
+      [
+        5,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "F-sharp",
+    "variant": "late_short",
+    "reference_midi": "reference/f-sharp_arpeggio.mid",
+    "performance_midi": "performance/f-sharp_arpeggio_late_short.mid",
+    "errors": [
+      [
+        2,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "F-sharp",
+    "variant": "late_long",
+    "reference_midi": "reference/f-sharp_arpeggio.mid",
+    "performance_midi": "performance/f-sharp_arpeggio_late_long.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "f-sharp_arpeggio",
+    "split": "validation",
+    "family": "arpeggio",
+    "tonic": "F-sharp",
+    "variant": "mixed",
+    "reference_midi": "reference/f-sharp_arpeggio.mid",
+    "performance_midi": "performance/f-sharp_arpeggio_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "a-flat_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "A-flat",
+    "variant": "clean",
+    "reference_midi": "reference/a-flat_major_scale.mid",
+    "performance_midi": "performance/a-flat_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "A-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/a-flat_major_scale.mid",
+    "performance_midi": "performance/a-flat_major_scale_pitch.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "A-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/a-flat_major_scale.mid",
+    "performance_midi": "performance/a-flat_major_scale_late_short.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "A-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/a-flat_major_scale.mid",
+    "performance_midi": "performance/a-flat_major_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "a-flat_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "A-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/a-flat_major_scale.mid",
+    "performance_midi": "performance/a-flat_major_scale_mixed.mid",
+    "errors": [
+      [
+        0,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "a-flat_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "A-flat",
+    "variant": "clean",
+    "reference_midi": "reference/a-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/a-flat_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "A-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/a-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/a-flat_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        6,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "A-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/a-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/a-flat_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        8,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "A-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/a-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/a-flat_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "a-flat_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "A-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/a-flat_natural_minor_scale.mid",
+    "performance_midi": "performance/a-flat_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "a-flat_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "A-flat",
+    "variant": "clean",
+    "reference_midi": "reference/a-flat_arpeggio.mid",
+    "performance_midi": "performance/a-flat_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "A-flat",
+    "variant": "pitch",
+    "reference_midi": "reference/a-flat_arpeggio.mid",
+    "performance_midi": "performance/a-flat_arpeggio_pitch.mid",
+    "errors": [
+      [
+        11,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "A-flat",
+    "variant": "late_short",
+    "reference_midi": "reference/a-flat_arpeggio.mid",
+    "performance_midi": "performance/a-flat_arpeggio_late_short.mid",
+    "errors": [
+      [
+        5,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "a-flat_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "A-flat",
+    "variant": "late_long",
+    "reference_midi": "reference/a-flat_arpeggio.mid",
+    "performance_midi": "performance/a-flat_arpeggio_late_long.mid",
+    "errors": [
+      [
+        7,
+        "late_onset"
+      ],
+      [
+        8,
+        "late_onset"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "a-flat_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "A-flat",
+    "variant": "mixed",
+    "reference_midi": "reference/a-flat_arpeggio.mid",
+    "performance_midi": "performance/a-flat_arpeggio_mixed.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "b_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "B",
+    "variant": "clean",
+    "reference_midi": "reference/b_major_scale.mid",
+    "performance_midi": "performance/b_major_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "B",
+    "variant": "pitch",
+    "reference_midi": "reference/b_major_scale.mid",
+    "performance_midi": "performance/b_major_scale_pitch.mid",
+    "errors": [
+      [
+        8,
+        "wrong_pitch"
+      ],
+      [
+        13,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "B",
+    "variant": "late_short",
+    "reference_midi": "reference/b_major_scale.mid",
+    "performance_midi": "performance/b_major_scale_late_short.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "B",
+    "variant": "late_long",
+    "reference_midi": "reference/b_major_scale.mid",
+    "performance_midi": "performance/b_major_scale_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b_major_scale",
+    "split": "test",
+    "family": "major_scale",
+    "tonic": "B",
+    "variant": "mixed",
+    "reference_midi": "reference/b_major_scale.mid",
+    "performance_midi": "performance/b_major_scale_mixed.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "wrong_pitch"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "B",
+    "variant": "clean",
+    "reference_midi": "reference/b_natural_minor_scale.mid",
+    "performance_midi": "performance/b_natural_minor_scale_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "B",
+    "variant": "pitch",
+    "reference_midi": "reference/b_natural_minor_scale.mid",
+    "performance_midi": "performance/b_natural_minor_scale_pitch.mid",
+    "errors": [
+      [
+        2,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "B",
+    "variant": "late_short",
+    "reference_midi": "reference/b_natural_minor_scale.mid",
+    "performance_midi": "performance/b_natural_minor_scale_late_short.mid",
+    "errors": [
+      [
+        11,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      180,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "B",
+    "variant": "late_long",
+    "reference_midi": "reference/b_natural_minor_scale.mid",
+    "performance_midi": "performance/b_natural_minor_scale_late_long.mid",
+    "errors": [
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1560,
+      1560,
+      1560
+    ]
+  },
+  {
+    "exercise_id": "b_natural_minor_scale",
+    "split": "test",
+    "family": "natural_minor_scale",
+    "tonic": "B",
+    "variant": "mixed",
+    "reference_midi": "reference/b_natural_minor_scale.mid",
+    "performance_midi": "performance/b_natural_minor_scale_mixed.mid",
+    "errors": [
+      [
+        9,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ],
+      [
+        13,
+        "late_onset"
+      ],
+      [
+        14,
+        "wrong_pitch"
+      ],
+      [
+        14,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040,
+      2040,
+      2040
+    ]
+  },
+  {
+    "exercise_id": "b_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "B",
+    "variant": "clean",
+    "reference_midi": "reference/b_arpeggio.mid",
+    "performance_midi": "performance/b_arpeggio_clean.mid",
+    "errors": [],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "B",
+    "variant": "pitch",
+    "reference_midi": "reference/b_arpeggio.mid",
+    "performance_midi": "performance/b_arpeggio_pitch.mid",
+    "errors": [
+      [
+        3,
+        "wrong_pitch"
+      ],
+      [
+        9,
+        "wrong_pitch"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "B",
+    "variant": "late_short",
+    "reference_midi": "reference/b_arpeggio.mid",
+    "performance_midi": "performance/b_arpeggio_late_short.mid",
+    "errors": [
+      [
+        10,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      0
+    ]
+  },
+  {
+    "exercise_id": "b_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "B",
+    "variant": "late_long",
+    "reference_midi": "reference/b_arpeggio.mid",
+    "performance_midi": "performance/b_arpeggio_late_long.mid",
+    "errors": [
+      [
+        9,
+        "late_onset"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1080,
+      1080,
+      1080,
+      1080
+    ]
+  },
+  {
+    "exercise_id": "b_arpeggio",
+    "split": "test",
+    "family": "arpeggio",
+    "tonic": "B",
+    "variant": "mixed",
+    "reference_midi": "reference/b_arpeggio.mid",
+    "performance_midi": "performance/b_arpeggio_mixed.mid",
+    "errors": [
+      [
+        1,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "wrong_pitch"
+      ],
+      [
+        10,
+        "late_onset"
+      ],
+      [
+        11,
+        "late_onset"
+      ],
+      [
+        12,
+        "late_onset"
+      ]
+    ],
+    "pitch_delta_semitones": [
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    "onset_delay_ticks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2040,
+      2040,
+      2040
+    ]
+  }
+]
